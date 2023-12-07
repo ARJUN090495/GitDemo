@@ -35,5 +35,14 @@ public class basics
 
 		System.out.println("my git project");
 		System.out.println("my git project");	
+		
+		
+		System.out.println("my git branch1");	
+		System.out.println("my git branch2");	
+		System.out.println("my git branch3");	
+		System.out.println("my git branch4");	
+
+		
+		
 	}
 }
